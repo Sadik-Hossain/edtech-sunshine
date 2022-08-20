@@ -1,4 +1,17 @@
-* {
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* * {
   margin: 0;
   padding: 0;
 }
+a {
+  text-decoration: none;
+  color: #fff;
+}
+input {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  margin-bottom: 1rem;
+} */
